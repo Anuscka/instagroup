@@ -8,7 +8,7 @@
 
 body{
   height: 100vh;
-  background: url('/.images/back.jpeg');
+  background: url('../images/back.jpeg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
