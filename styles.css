@@ -106,7 +106,8 @@ body{
 }
 
 .card-footer{
-  background: #cecece;
+  background: #f4f4f4;
+  color: #012744
   padding: 60px 10px;
 }
 
