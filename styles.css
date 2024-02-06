@@ -8,7 +8,7 @@
 
 body{
   height: 100vh;
-  background: ../images/back.jpeg no-repeat center;
+  background: url(https://fadzrinmadu.github.io/hosted-assets/amazing-profile-card-using-only-html-and-css/bg.jpg) no-repeat center;
   background-size: cover;
   display: flex;
   align-items: center;
