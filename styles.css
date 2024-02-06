@@ -8,7 +8,7 @@
 
 body{
   height: 100vh;
-  background: url(../images/back.jpeg);
+  background-image: linear-gradient(#f17c25, #21a5d7, #012744);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
